@@ -1,6 +1,19 @@
 # AI Engineer Roadmap 🤖
 
-Follow me on [YouTube](https://www.youtube.com/channel/UCH-xwLTKQaABNs2QmGxK2bQ/) * Newsletter - (https://dswharshit.substack.com/) * [X](https://twitter.com/dswharshit) * [LinkedIn](https://www.linkedin.com/in/tyagiharshit/)
+![AI Engineer Roadmap Cover]()
+
+![Prompt Engineering](https://example.com/prompt-engineering.jpg)
+![Open Source LLMs](https://example.com/open-source-llms.jpg)
+![LangChain Operations](https://example.com/langchain-operations.jpg)
+![Code Generation](https://example.com/code-generation.jpg)
+
+
+![](./imgs/ai_engg_roadmap.png)
+
+Follow me on [YouTube](https://www.youtube.com/channel/UCH-xwLTKQaABNs2QmGxK2bQ/) * [Newsletter](https://dswharshit.substack.com/) * [X](https://twitter.com/dswharshit) * [LinkedIn](https://www.linkedin.com/in/tyagiharshit/)
+
+---
+
 
 
 
