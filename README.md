@@ -1,20 +1,17 @@
-# AI Engineer Roadmap 🤖
+<div align="center">
+<h1> AI Engineer Roadmap & Resources 🤖 </h1>
 
-![AI Engineer Roadmap Cover]()
+<p align="center">
+<a href="https://www.youtube.com/channel/UCH-xwLTKQaABNs2QmGxK2bQ/">Follow me on YouTube</a> •  <a href="https://twitter.com/dswharshit"> X  </a> •
+<a href="https://www.linkedin.com/in/tyagiharshit/">LinkedIn </a> •
+<a href="https://dswharshit.substack.com/"> Subscribe to my Newsletter </a>
+</p>
+</div>
 
-![Prompt Engineering](https://example.com/prompt-engineering.jpg)
-![Open Source LLMs](https://example.com/open-source-llms.jpg)
-![LangChain Operations](https://example.com/langchain-operations.jpg)
-![Code Generation](https://example.com/code-generation.jpg)
-
-
-![](./imgs/ai_engg_roadmap.png)
-
-Follow me on [YouTube](https://www.youtube.com/channel/UCH-xwLTKQaABNs2QmGxK2bQ/) * [Newsletter](https://dswharshit.substack.com/) * [X](https://twitter.com/dswharshit) * [LinkedIn](https://www.linkedin.com/in/tyagiharshit/)
 
 ---
 
-
+![AI Engineer Roadmap Cover](./imgs/ai_engg_roadmap.png)
 
 
 | Step                               | Resources |
