@@ -11,7 +11,7 @@
 
 ---
 
-![AI Engineer Roadmap Cover](./imgs/ai_engg_roadmap.png)
+![AI Engineer Roadmap Cover](./imgs/ai_engineer_roadmap.png)
 
 
 | Step                               | Resources |
