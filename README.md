@@ -10,8 +10,15 @@
 
 
 ---
+The AI Engineering Roadmap categorizes the journey into beginner intermediate, and advanced stages.
+
+I'd suggest you go deep in each stage, build projects, POCs or better yet, functional products and then move to the next stage.
 
 ![AI Engineer Roadmap Cover](./imgs/ai_engineer_roadmap.png)
+
+
+## Learning Resources & References
+The following table enlists learning resources and references that I found helpful and plan to use myself to build.
 
 
 | Step                               | Resources |
@@ -35,3 +42,12 @@
 | Multi-modal applications            | - [Building hybrid search apps with vector databases like Pinecone](https://www.deeplearning.ai/short-courses/building-applications-vector-databases/)<br>- Cookbook for [multimodal RAG pipelines](https://github.com/langchain-ai/langchain/blob/master/cookbook/Semi_structured_and_multi_modal_RAG.ipynb). |
 | Model Evals and benchmarking        | - [How to evaluate LLMs with Hugging Face Lighteval](https://www.philschmid.de/sagemaker-evaluate-llm-lighteval)<br>- Course on [Automated Testing for LLMOps](https://www.deeplearning.ai/short-courses/automated-testing-llmops/): Learn to test and evaluate LLM application using an evaluation LLM. |
 | AI Security                         | - [Red Teaming LLM Applications](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/) - learn to identify and evaluate vulnerabilities in LLM apps.<br>- [Planning red teaming for large language models (LLMs) and their applications](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming)<br>- A detailed list of resources on [LLM security](https://llmsecurity.net/) highlighting all potential risks and vulnerabilities in AI applications. |
+
+
+## [Coming up...] - Functional Product / Project Ideas
+
+| Project Idea                        | Description | Resources |
+|-------------------------------------|-------------|-----------|
+|                                     |             |           |
+|                                     |             |           |
+|                                     |             |           |
