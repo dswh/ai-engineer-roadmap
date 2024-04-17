@@ -46,8 +46,9 @@ The following table enlists learning resources and references that I found helpf
 
 ## [Coming up...] - Functional Product / Project Ideas
 
-| Project Idea                        | Description | Resources |
-|-------------------------------------|-------------|-----------|
-|                                     |             |           |
-|                                     |             |           |
-|                                     |             |           |
+| Project Idea                        | Description |
+|-------------------------------------|-------------|
+|                                     |             |
+|                                     |             |
+|                                     |             |
+
