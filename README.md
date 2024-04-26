@@ -10,10 +10,14 @@
 
 
 ---
-The AI Engineering Roadmap categorizes the journey into 
-1. `Beginner` - Master the skill of developing applications with LLMs, APIs, and Prompt Engineering.
-2. `Intermediate` - Build expertise in handling longer context, building RAG applications, and building agents.
-3. `Advanced` (Entering AI Research territory) - Learn to fine-tune LLMs, build automated and orchestrated pipelines with model evals and testing frameworks.
+The AI Engineering Roadmap categorizes the journey into 3 stages:
+1. `Beginner` - Build basic application to learn to consume LLM APIs, carefully engineering prompts for your applications and working with open source LLMs.
+
+2. `Intermediate` - Go deep into building more context aware advanced applications using Retreival Augmented Generation (RAG). Learn about vector databases and how to work with one. Learn to build agents with LLMs and tools.
+
+3. `Advanced` - After mastering application building, learn to deploy, optimise and manage LLM-powered apps in production with LLMOps. Learn to fine-tune pre-trained models to adapt to downstream applications efficiently and at low cost.
+
+
 
 I'd suggest you go deep in each stage, build projects, POCs or better yet, functional products and then move to the next stage.
 
@@ -24,10 +28,10 @@ I'd suggest you go deep in each stage, build projects, POCs or better yet, funct
 The following table enlists learning resources and references that I found helpful and plan to use myself to build.
 
 
-| Step                               | Resources |
+| Skills                               | Resources |
 |------------------------------------|-----------|
 | **Beginner**                       |           |
-| Working with LLM APIs              | - Commonly used LLM APIs: [OpenAI](https://www.notion.so/Resources-34b331afa220479889666fb6e0f245f7?pvs=21), [Anthropic(Claude)](https://docs.anthropic.com/claude/reference/getting-started-with-the-api), [Hugging Face](https://huggingface.co/inference-api) |
+| Working with LLMs and APIs              | - Commonly used LLM APIs: [OpenAI](https://www.notion.so/Resources-34b331afa220479889666fb6e0f245f7?pvs=21), [Anthropic(Claude)](https://docs.anthropic.com/claude/reference/getting-started-with-the-api), [Hugging Face](https://huggingface.co/inference-api) |
 | Prompt Engineering                 | - [DeepLearning.AI Course on ChatGPT Prompt Engineering for Developers](http://DeepLearning.AI)<br>- [Prompt Engineering Guide](https://www.promptingguide.ai/): A detailed resource encapsulating the latest papers, advanced prompting techniques, learning guides, model-specific prompting guides, lectures, references, new LLM capabilities, and tools related to prompt engineering.<br>- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): A compilation of great prompts to be used with ChatGPT models. |
 | Running and working with Open Source LLMs | - [Deeplearning.AI course on Open Source Models with Hugging Face](http://Deeplearning.AI)<br>- Open Source LLMs can be accessed via [Hugging Face Hub](https://huggingface.co/models) and you can play with a few of them in [Hugging Face Spaces](https://huggingface.co/spaces)<br>- [OpenRouter Docs](https://openrouter.ai/docs#quick-start)<br>- Run LLMs on your local machine using [LM Studio](https://lmstudio.ai/) |
 | Chain of Operations - LangChain    | - [Quickstart guide](https://python.langchain.com/docs/get_started/quickstart/) on how to build an application with LangChain.<br>- [Deeplearning.AI course on LangChain for LLM Application Development](http://Deeplearning.AI) |
@@ -47,7 +51,7 @@ The following table enlists learning resources and references that I found helpf
 | AI Security                         | - [Red Teaming LLM Applications](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/) - learn to identify and evaluate vulnerabilities in LLM apps.<br>- [Planning red teaming for large language models (LLMs) and their applications](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming)<br>- A detailed list of resources on [LLM security](https://llmsecurity.net/) highlighting all potential risks and vulnerabilities in AI applications. |
 
 
-## Functional Product / Project Ideas
+## Functional Product / Project Ideas to build the above skills
 
 Here's the content of your HTML table converted into a well-formatted markdown table:
 
@@ -60,7 +64,7 @@ Here's the content of your HTML table converted into a well-formatted markdown t
 | 4.    | Multi-modal generation via Discord. | All of above and `Multi-modal generation` |
 |       | **Intermediate** |                                   |
 | 5.    | `Q&A bot for specific persona` / department - Doctor / Lawyer / Engineer, Marketer, Sales etc. | `text splitting`, `chunking`, `indexing`, `working with vector databases`, `building RAG pipelines`, `deploying apps` |
-| 6.    | `StackOverflow-like search engine` that provides multiple response from multiple documentation sources - Advanced RAG pipeline to answer complex query using multiple data sources. | All above and `vector retrieval`, `summary retrieval`, `sub-question query engine`, `deploying apps` |
+| 6.    | `StackOverflow-like search engine` that provides response from multiple data sources - Advanced RAG pipeline to answer complex query using multiple data sources. | All above and `vector retrieval`, `summary retrieval`, `sub-question query engine`, `deploying apps` |
 | 7.    | AI Interview Buddy - an AI agent that helps in preparing for specific roles in an interactive manner. | `Building agents`, `agentic design`, `text-to-speech`, `speech-to-text`, `deployment` |
 |       | **Advanced** |                                   |
 | 8.    | Personal assistant fine-tuned on domain-specific data. Personal Healthcare, Country’s Law, Finance, etc. | `Dataset curation`, `Data engineering`, `model evaluation`, `benchmarking`, `PEFT`, `LoRA`, `QLoRA` |
