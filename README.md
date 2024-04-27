@@ -51,7 +51,11 @@ The following table enlists learning resources and references that I found helpf
 | AI Security                         | - [Red Teaming LLM Applications](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/) - learn to identify and evaluate vulnerabilities in LLM apps.<br>- [Planning red teaming for large language models (LLMs) and their applications](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming)<br>- A detailed list of resources on [LLM security](https://llmsecurity.net/) highlighting all potential risks and vulnerabilities in AI applications. |
 
 
-## Functional Product / Project Ideas to build the above skills
+# Your trajectory
+![Image Trajectory](./imgs/trajectory.png)
+
+
+# Functional Product / Project Ideas to build the above skills
 
 Here's the content of your HTML table converted into a well-formatted markdown table:
 
