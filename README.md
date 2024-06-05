@@ -27,6 +27,9 @@ I'd suggest you go deep in each stage, build projects, POCs or better yet, funct
 ## Learning Resources & References
 The following table enlists learning resources and references that I found helpful and plan to use myself to build.
 
+## Follow me as I execute this roadmap end-to-end on YouTube:
+https://www.youtube.com/playlist?list=PLIkXejH7XPT8x9iUGvlsYt44aPx6ns8BV
+
 
 | Skills                               | Resources |
 |------------------------------------|-----------|
